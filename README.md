@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amwill1853
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning to code
+- 👀 I’m interested in growing
+- 🌱 I’m currently learning to branch out
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me at my page of course!
 
